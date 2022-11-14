@@ -5,7 +5,7 @@
 
 <div id="badges" align="center">
     <a href="https://t.me/sergeiown" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge" height="25"/>
+        <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" height="25"/>
   </a>
   <a href="https://www.linkedin.com/in/sehii-myshko/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"/>
