@@ -39,6 +39,6 @@
 
 <div align="center">
   
-![99's Github Stats](https://github-readme-stats.vercel.app/api?username=sergeiown&bg_color=30,00003f,0000d8&title_color=#ccc&text_color=#ccc)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=cobalt2&show_icons=true)
 
 </div>
