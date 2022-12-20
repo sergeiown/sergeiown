@@ -33,10 +33,11 @@
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/figma.svg" title="figma" alt="figma" width="30" height="30"/>&nbsp;
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/git.svg" title="git" alt="git" width="30" height="30"/>&nbsp;
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/github.svg" title="github" alt="github" width="30" height="30"/>&nbsp;
+  <br>
 </div>
 
 <div align="center">
   
-![99's Github Stats](https://github-readme-stats.vercel.app/api?username=sergeiown&bg_color=30,00003f,0000d8&title_color=ccc&text_color=#c3c3c3)
+![99's Github Stats](https://github-readme-stats.vercel.app/api?username=sergeiown&bg_color=30,00003f,0000d8&title_color=#d0d0d0&text_color=#c3c3c3)
 
 </div>
