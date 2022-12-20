@@ -37,13 +37,10 @@
 
 <br>
 
-<p>
+<div id="stats">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeiown&theme=cobalt2&show_icons=true&hide=contribs,issues&include_all_commits=true&custom_title=GitHub_Stats:&card_width=440)
 
-</p>
-<p>
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeiown&langs_count=8&layout=compact&theme=cobalt2&card_width=440)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
+</div>
