@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="color:#DAAE0C;>
   Hey there
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/hey.gif" alt="hey there" width="30px"/>
 </h1>
@@ -17,7 +17,7 @@
 </div>
 
 ##
-<h3 align="center">
+<h3 align="center" style="color:#DAAE0C;>
   :hammer_and_wrench: Languages and Tools :
 </h3>
 
