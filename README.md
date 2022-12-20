@@ -39,6 +39,6 @@
 
 <div align="center">
   
-![99's Github Stats](https://github-readme-stats.vercel.app/api?username=sergeiown&bg_color=30,00003f,0000d8&title_color=dark grey&text_color=#c3c3c3)
+![99's Github Stats](https://github-readme-stats.vercel.app/api?username=sergeiown&bg_color=30,00003f,0000d8&title_color=grey&text_color=#c3c3c3)
 
 </div>
