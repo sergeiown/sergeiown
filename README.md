@@ -15,10 +15,20 @@
 <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=sergeiown&style=flat-square&color=blue" alt="Counter" height="25"/>
 </div>
+
 ##
 **:hammer_and_wrench: Languages and Tools :**
+
 <div>
-  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/html5.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/css3.svg" title="css3.svg" alt="css3.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/css3.svg" title="css3.svg" alt="css3.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/html5.svg" title="html5" alt="html5" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/css3.svg" title="css3" alt="css3" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/sass.svg" title="sass" alt="sass" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/javascript.svg" title="javascript" alt="javascript" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/node-dot-js.svg" title="nodejs" alt="nodejs" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/react.svg" title="react" alt="react" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/visualstudiocode.svg" title="visualstudiocode" alt="visualstudiocode" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/webpack.svg" title="webpack" alt="webpack" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/figma.svg" title="figma" alt="figma" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/git.svg" title="git" alt="git" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/github.svg" title="github" alt="github" width="35" height="35"/>&nbsp;
 </div>
