@@ -39,7 +39,7 @@
 
 <div id="stats"  align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeiown&theme=cobalt2&show_icons=true&hide=contribs,issues&include_all_commits=true&custom_title=GitHub Stats&card_width=450)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeiown&theme=cobalt2&show_icons=true&hide=contribs,issues&include_all_commits=true&custom_title=GitHub&nbsp;Stats&card_width=450)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeiown&langs_count=8&layout=compact&theme=cobalt2&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 
