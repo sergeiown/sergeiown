@@ -30,5 +30,5 @@
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/webpack.svg" title="webpack" alt="webpack" width="35" height="35"/>&nbsp;
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/figma.svg" title="figma" alt="figma" width="35" height="35"/>&nbsp;
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/git.svg" title="git" alt="git" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/github.svg" title="github" alt="github" width="35" height="35"/>&nbsp;
+  
 </div>
