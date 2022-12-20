@@ -17,9 +17,11 @@
 </div>
 
 ##
-**:hammer_and_wrench: Languages and Tools :**
+<h2 align="center">
+  :hammer_and_wrench: Languages and Tools :
+</h2>
 
-<div>
+<div align="center">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/html5.svg" title="html5" alt="html5" width="30" height="30"/>&nbsp;
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/css3.svg" title="css3" alt="css3" width="30" height="30"/>&nbsp;
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/sass.svg" title="sass" alt="sass" width="30" height="30"/>&nbsp;
@@ -34,4 +36,6 @@
 </div>
 
 ##
+<div align="center">
 ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=sergeiown&bg_color=10,00003f,0000d8&title_color=ccc&text_color=ccc)
+</div>
