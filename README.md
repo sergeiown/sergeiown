@@ -34,4 +34,4 @@
 </div>
 
 ##
-![99's Github Stats](https://github-readme-stats.vercel.app/api?username=sergeiown&bg_color=30,e96443,904e95&title_color=fff&text_color=ccc)
+![99's Github Stats](https://github-readme-stats.vercel.app/api?username=sergeiown&bg_color=0,e96443,904e95&title_color=ccc&text_color=ccc)
