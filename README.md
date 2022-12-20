@@ -35,8 +35,8 @@
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/github.svg" title="github" alt="github" width="30" height="30"/>&nbsp;
 </div>
 
-<div align="center">
-&nbsp;  
+<div align="center">&nbsp;
+  
 ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=sergeiown&bg_color=10,00003f,0000d8&title_color=ccc&text_color=#a9a9a9)
-&nbsp;  
-</div>
+
+</div>&nbsp;
