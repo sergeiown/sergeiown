@@ -16,7 +16,7 @@
 <img src="https://komarev.com/ghpvc/?username=sergeiown&style=flat-square&color=blue" alt="Counter" height="25"/>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/html5.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
 </div>
