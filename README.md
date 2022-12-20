@@ -39,6 +39,6 @@
 
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeiown&theme=cobalt2&show_icons=true&hide=contribs,issues&include_all_commits=true&custom_title=My GitHub Stats&card_width=440)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeiown&theme=cobalt2&show_icons=true&hide=contribs,issues&include_all_commits=true&custom_title="My GitHub Stats"&card_width=440)
 
 </div>
