@@ -32,3 +32,5 @@
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/git.svg" title="git" alt="git" width="30" height="30"/>&nbsp;
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/github.svg" title="github" alt="github" width="30" height="30"/>&nbsp;
 </div>
+
+![99's Github Stats](https://github-readme-stats.vercel.app/api?username=sergeiown&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
