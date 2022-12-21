@@ -65,7 +65,7 @@
 <div id="stats"  align="center">
 <a href="https://github.com/sergeiown" target="_blank">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeiown&theme=cobalt2&show_icons=true&hide=contribs,issues&count_private=true&include_all_commits=true&custom_title=GitHub&nbsp;Stats&card_width=450)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeiown&theme=cobalt2&show_icons=true&hide=issues&count_private=true&include_all_commits=true&custom_title=GitHub&nbsp;Stats&card_width=450)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeiown&langs_count=8&layout=compact&theme=cobalt2&card_width=400)
   
