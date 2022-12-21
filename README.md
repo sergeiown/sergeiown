@@ -69,7 +69,6 @@
   
 </a>
 <a href="https://t.me/sergeiown" target="_blank">  
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeiown&langs_count=8&layout=compact&theme=cobalt2&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 </div>
