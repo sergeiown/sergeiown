@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#DAAE0C;">
-  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/heythere.svg" alt="hey there"/>
-  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/hey.gif" alt="hey" width="40px"/>
+  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/heythere.svg" alt="hey there" hight="40px"/>
+  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/hey.gif" alt="hey" hight="40px"/>
 </h1>
 
 <div id="badges" align="center">
