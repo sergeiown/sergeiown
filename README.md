@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#DAAE0C;">
-  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/hey_there.svg" alt="hey there" width="100px"/>
+  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/hey_there.svg" alt="hey there" width="150px"/>
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/hey.gif" alt="hey" width="30px"/>
 </h1>
 
