@@ -1,6 +1,8 @@
 <h1 align="center" style="color:#DAAE0C;">
+  <a href="https://t.me/sergeiown" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/heythere.svg" alt="hey there" hight="40px"/>
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/hey.gif" alt="hey" hight="40px"/>
+  </a>
 </h1>
 
 <div id="badges" align="center">
