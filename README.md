@@ -16,7 +16,6 @@
 <img src="https://komarev.com/ghpvc/?username=sergeiown&style=flat-square&color=blue" alt="Counter" height="25"/>
 </div>
 
-##
 <h3 align="center" style="color:#DAAE0C;">
   :hammer_and_wrench: Tools :
 </h3>
