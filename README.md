@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#DAAE0C;">
-  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/heythere.svg" alt="hey there" width="200px" hight="30px"/>
-  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/hey.gif" alt="hey" width="30px" hight="30px"/>
+  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/heythere.svg" alt="hey there"/>
+  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/hey.gif" alt="hey" width="40px"/>
 </h1>
 
 <div id="badges" align="center">
@@ -18,7 +18,7 @@
 
 ##
 <h3 align="center" style="color:#DAAE0C;">
-  :hammer_and_wrench: Languages and Tools :
+  :hammer_and_wrench: Tools :
 </h3>
 
 <div align="center">
