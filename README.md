@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="color:#DAAE0C;">
   Hey there
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/hey.gif" alt="hey there" width="30px"/>
 </h1>
@@ -17,9 +17,11 @@
 </div>
 
 ##
-**:hammer_and_wrench: Languages and Tools :**
+<h3 align="center" style="color:#DAAE0C;">
+  :hammer_and_wrench: Languages and Tools :
+</h3>
 
-<div>
+<div align="center">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/html5.svg" title="html5" alt="html5" width="30" height="30"/>&nbsp;
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/css3.svg" title="css3" alt="css3" width="30" height="30"/>&nbsp;
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/sass.svg" title="sass" alt="sass" width="30" height="30"/>&nbsp;
@@ -31,4 +33,14 @@
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/figma.svg" title="figma" alt="figma" width="30" height="30"/>&nbsp;
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/git.svg" title="git" alt="git" width="30" height="30"/>&nbsp;
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/github.svg" title="github" alt="github" width="30" height="30"/>&nbsp;
+</div>
+
+<br>
+
+<div id="stats"  align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeiown&theme=cobalt2&show_icons=true&hide=contribs,issues&include_all_commits=true&custom_title=GitHub&nbsp;Stats&card_width=450)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeiown&langs_count=8&layout=compact&theme=cobalt2&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
