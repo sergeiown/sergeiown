@@ -25,17 +25,39 @@
 </h3>
 
 <div align="center">
+  <a href="https://t.me/sergeiown" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/html5.svg" title="html5" alt="html5" width="30" height="30"/>&nbsp;
+  </a>
+  <a href="https://t.me/sergeiown" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/css3.svg" title="css3" alt="css3" width="30" height="30"/>&nbsp;
+  </a>
+  <a href="https://t.me/sergeiown" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/sass.svg" title="sass" alt="sass" width="30" height="30"/>&nbsp;
+  </a>
+  <a href="https://t.me/sergeiown" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/javascript.svg" title="javascript" alt="javascript" width="30" height="30"/>&nbsp;
+  </a>
+  <a href="https://t.me/sergeiown" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/node-dot-js.svg" title="nodejs" alt="nodejs" width="30" height="30"/>&nbsp;
+  </a>
+  <a href="https://t.me/sergeiown" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/react.svg" title="react" alt="react" width="30" height="30"/>&nbsp;
+  </a>
+  <a href="https://t.me/sergeiown" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/visualstudiocode.svg" title="visualstudiocode" alt="visualstudiocode" width="30" height="30"/>&nbsp;
+  </a>
+  <a href="https://t.me/sergeiown" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/webpack.svg" title="webpack" alt="webpack" width="30" height="30"/>&nbsp;
+  </a>
+  <a href="https://t.me/sergeiown" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/figma.svg" title="figma" alt="figma" width="30" height="30"/>&nbsp;
+  </a>
+  <a href="https://t.me/sergeiown" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/git.svg" title="git" alt="git" width="30" height="30"/>&nbsp;
+  </a>
+  <a href="https://t.me/sergeiown" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/github.svg" title="github" alt="github" width="30" height="30"/>&nbsp;
+  </a>
 </div>
 
 <br>
