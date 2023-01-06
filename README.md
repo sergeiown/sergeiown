@@ -34,6 +34,9 @@
   <a href="https://sass-lang.com/guide" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/sass.svg" title="sass" alt="sass" width="30" height="30"/>&nbsp;
   </a>
+  <a href="https://prepros.io/" target="_blank">
+  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/prepros.svg" title="prepros" alt="prepros" width="30" height="30"/>&nbsp;
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/javascript.svg" title="javascript" alt="javascript" width="30" height="30"/>&nbsp;
   </a>
