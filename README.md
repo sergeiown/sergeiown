@@ -60,14 +60,4 @@
   </a>
 </div>
 
-<br>
 
-<div id="stats"  align="center">
-<a href="https://github.com/sergeiown" target="_blank">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeiown&theme=cobalt2&show_icons=true&hide=contribs,issues&include_all_commits=true&custom_title=GitHub&nbsp;Stats&card_width=450)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeiown&layout=compact&langs_count=8&theme=cobalt2&card_width=400)
-  
-</a>
-</div>
