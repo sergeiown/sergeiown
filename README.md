@@ -21,7 +21,7 @@
 </div>
 
 <div id="counter" align="center">
-<img src="https://www.codewars.com/users/sergeiown/badges/small" alt="Codewars" height="25"/>
+<img src="https://www.codewars.com/users/sergeiown/badges/micro" alt="Codewars" height="25"/>
 </div>
 
 <h3 align="center">
