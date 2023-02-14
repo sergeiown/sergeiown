@@ -17,8 +17,10 @@
   }
   10% {
     transform: translateY(0) rotate(-15deg);
-    opacity: 1;
     animation-timing-function: ease-in-out;
+  }
+  15% {
+    opacity: 1;
   }
   25% {
     transform: rotate(30deg);
@@ -29,10 +31,10 @@
   }
   75% {
     transform: rotate(30deg);
+    opacity: 1;
   }
   90% {
     transform: translateY(0) rotate(-15deg);
-    opacity: 1;
     animation-timing-function: ease-in-out;
   }
   100% {
