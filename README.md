@@ -3,7 +3,7 @@
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/heythere.svg" alt="hey there" hight="40px"/>
   </a>
   <a href="https://github.com/sergeiown" target="_blank">
-  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/hey.gif" alt="hey" hight="40px"/>
+  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/hand.svg" alt="hand" width="100" height="100"/>
   </a>
 </h1>
 
