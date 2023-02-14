@@ -38,9 +38,6 @@
   <a href="https://sass-lang.com/guide" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/sass.svg" title="sass" alt="sass" width="30" height="30"/>&nbsp;
   </a>
-  <a href="https://prepros.io/" target="_blank">
-  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/prepros.svg" title="prepros" alt="prepros" width="30" height="30"/>&nbsp;
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/javascript.svg" title="javascript" alt="javascript" width="30" height="30"/>&nbsp;
   </a>
@@ -49,9 +46,6 @@
   </a>
   <a href="https://reactjs.org/" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/react.svg" title="react" alt="react" width="30" height="30"/>&nbsp;
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/visualstudiocode.svg" title="visualstudiocode" alt="visualstudiocode" width="30" height="30"/>&nbsp;
   </a>
   <a href="https://webpack.js.org/" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/webpack.svg" title="webpack" alt="webpack" width="30" height="30"/>&nbsp;
@@ -67,6 +61,10 @@
   <a href="https://github.com/sergeiown" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/github.svg" title="github" alt="github" width="30" height="30"/>&nbsp;
   </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/visualstudiocode.svg" title="visualstudiocode" alt="visualstudiocode" width="30" height="30"/>&nbsp;
+  </a>
+  <a href="https://prepros.io/" target="_blank">
+  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/prepros.svg" title="prepros" alt="prepros" width="30" height="30"/>&nbsp;
+  </a>
 </div>
-
-
