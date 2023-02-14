@@ -3,7 +3,7 @@
     .typewriter {
       stroke-dasharray: 700;
       stroke-dashoffset: 700;
-      animation: dash 15s linear forwards;
+      animation: dash 25s linear forwards;
       fill: none;
       stroke: #ECB613;
       stroke-width: 3;
