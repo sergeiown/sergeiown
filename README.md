@@ -20,6 +20,10 @@
 <img src="https://komarev.com/ghpvc/?username=sergeiown&style=flat-square&color=blue" alt="Counter" height="25"/>
 </div>
 
+<div id="counter" align="center">
+<img src="https://www.codewars.com/users/sergeiown/badges/micro" alt="Codewars" height="25"/>
+</div>
+
 <h3 align="center">
   :hammer_and_wrench: Tools :
 </h3>
