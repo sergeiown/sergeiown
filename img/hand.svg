@@ -3,36 +3,43 @@
 
 <style>
 
-  #animated {
-    animation: slide-tilt 10s infinite ease-in-out;
-    transform-origin: bottom center;
-    opacity: 0;
-  }
+#animated {
+  animation: slide-tilt 10s infinite ease-in-out;
+  transform-origin: bottom center;
+  opacity: 0;
+  animation-delay: 2s;
+}
 
   @keyframes slide-tilt {
-    0% {
-        transform: translateY(100%) rotate(0deg);
-        opacity: 0;
-      }
-    10%, 90% {
-        transform: translateY(0) rotate(-15deg);
-        opacity: 1;
-        animation-timing-function: ease-in-out;
-      }
-    25% {
-      transform: rotate(30deg);
-      animation-timing-function: ease-in-out
-    }
-    50% {
-      transform: translateY(0) rotate(-15deg);
-    }
-    75% {
-      transform: rotate(30deg);
-    }
-    100% {
-      transform: translateY(0) rotate(30deg);
-    }
+  0% {
+    transform: translateY(100%) rotate(0deg);
+    opacity: 0;
   }
+  10% {
+    transform: translateY(0) rotate(-15deg);
+    opacity: 1;
+    animation-timing-function: ease-in-out;
+  }
+  25% {
+    transform: rotate(30deg);
+    animation-timing-function: ease-in-out
+  }
+  50% {
+    transform: translateY(0) rotate(-15deg);
+  }
+  75% {
+    transform: rotate(30deg);
+  }
+  90% {
+    transform: translateY(0) rotate(-15deg);
+    opacity: 1;
+    animation-timing-function: ease-in-out;
+  }
+  100% {
+    transform: translateY(100%) rotate(0deg);
+    opacity: 0;
+  }
+}
   
 </style>
 
