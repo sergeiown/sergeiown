@@ -47,8 +47,12 @@
   <a href="https://reactjs.org/" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/react.svg" title="react" alt="react" width="30" height="30"/>&nbsp;
   </a>
+  <a href="https://www.jetbrains.com/webstorm/" target="_blank">
+  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/webstorm.svg" title="webstorm" alt="webstorm" width="30" height="30"/>&nbsp;
+  </a>
   <a href="https://webpack.js.org/" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/webpack.svg" title="webpack" alt="webpack" width="30" height="30"/>&nbsp;
+  </a>
   <a href="https://babeljs.io//" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/babel.svg" title="babel" alt="babel" width="30" height="30"/>&nbsp;
   </a>
