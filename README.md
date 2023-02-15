@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#DAAE0C;">
   <a href="https://github.com/sergeiown" target="_blank">
-  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/heythere.svg" alt="hey there" hight="40px"/>
+  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/heythere.svg" alt="hey there"/>
   </a>
   <a href="https://github.com/sergeiown" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/hand.svg" alt="hand" width="150" height="100"/>
@@ -15,13 +15,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30"/>
       </a>
   </div>
-  
+
 <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=sergeiown&style=flat-square&color=blue" alt="Counter" height="25"/>
 </div>
 
 <div id="counter" align="center">
-<img src="https://www.codewars.com/users/sergeiown/badges/micro" alt="Codewars" height="25"/>
+<img src="https://www.codewars.com/users/sergeiown/badges/micro" alt="code wars" height="25"/>
 </div>
 
 <h3 align="center">
@@ -66,7 +66,7 @@
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/github.svg" title="github" alt="github" width="30" height="30"/>&nbsp;
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/visualstudiocode.svg" title="visualstudiocode" alt="visualstudiocode" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/sergeiown/sergeiown/blob/main/img/visualstudiocode.svg" title="visualstudio code" alt="visualstudio code" width="30" height="30"/>&nbsp;
   </a>
   <a href="https://prepros.io/" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/prepros.svg" title="prepros" alt="prepros" width="30" height="30"/>&nbsp;
