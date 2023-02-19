@@ -53,7 +53,7 @@
   <a href="https://webpack.js.org/" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/webpack.svg" title="webpack" alt="webpack" width="30" height="30"/>&nbsp;
   </a>
-  <a href="https://babeljs.io//" target="_blank">
+  <a href="https://babeljs.io/" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/babel.svg" title="babel" alt="babel" width="30" height="30"/>&nbsp;
   </a>
   <a href="https://www.figma.com/" target="_blank">
