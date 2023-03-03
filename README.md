@@ -17,10 +17,6 @@
   </div>
 
 <div id="counter" align="center">
-<img src="https://komarev.com/ghpvc/?username=sergeiown&style=flat-square&color=blue" alt="Counter" height="25"/>
-</div>
-
-<div id="counter" align="center">
 <img src="https://www.codewars.com/users/sergeiown/badges/micro" alt="code wars" height="25"/>
 </div>
 
