@@ -17,10 +17,6 @@
   </div>
 
 <div id="counter" align="center">
-<img src="https://komarev.com/ghpvc/?username=sergeiown&style=flat-square&color=blue" alt="Counter" height="25"/>
-</div>
-
-<div id="counter" align="center">
 <img src="https://www.codewars.com/users/sergeiown/badges/micro" alt="code wars" height="25"/>
 </div>
 
@@ -56,7 +52,7 @@
   <a href="https://webpack.js.org/" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/webpack.svg" title="webpack" alt="webpack" width="30" height="30"/>&nbsp;
   </a>
-  <a href="https://babeljs.io//" target="_blank">
+  <a href="https://babeljs.io/" target="_blank">
   <img src="https://github.com/sergeiown/sergeiown/blob/main/img/babel.svg" title="babel" alt="babel" width="30" height="30"/>&nbsp;
   </a>
   <a href="https://www.figma.com/" target="_blank">
