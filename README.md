@@ -27,7 +27,7 @@
 <div id="certificate" align="center">
     <a href="https://lms.beetroot.academy/diploma/cl8j19ngg1pb207277w98xqsj" target="_blank" align="center">
         <img
-            src="https://github.com/sergeiown/sergeiown/assets/112722061/e2fa7065-09ac-4c9f-aabb-3d7bbbdd669a"
+            src="https://github.com/sergeiown/sergeiown/blob/main/img/beetroot.png"
             title="Certificate"
             alt="Certificate"
             width="150"
