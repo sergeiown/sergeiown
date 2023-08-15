@@ -26,14 +26,12 @@
 </div>
 &nbsp;
 <div id="certificate" align="center">
-    <a href="https://lms.beetroot.academy/diploma/cl8j19ngg1pb207277w98xqsj" target="_blank" align="center">
-        <img
-            src="https://github.com/sergeiown/sergeiown/blob/main/img/beetroot.png"
-            title="Certificate"
-            alt="Certificate"
-            width="150"
-        />&nbsp;
-    </a>
+    <img
+        src="https://github.com/sergeiown/sergeiown/blob/main/img/connor.png"
+        title="Connor"
+        alt="John Connor watching you"
+        width="200"
+    />&nbsp;
 </div>
 &nbsp;  
 <div id="counter" align="center">
@@ -41,6 +39,7 @@
 </div>
 
 ##
+
 <h3 align="center">:hammer_and_wrench: Tools :</h3>
 
 <div align="center">
