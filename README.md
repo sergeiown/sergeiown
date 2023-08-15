@@ -31,7 +31,7 @@
             src="https://github.com/sergeiown/sergeiown/blob/main/img/singularity.webp"
             title="Connor"
             alt="John Connor watching you"
-            width="200"
+            width="300"
         />&nbsp;
      </a>
 </div>
