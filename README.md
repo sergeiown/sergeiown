@@ -26,9 +26,9 @@
 </div>
 &nbsp;
 <div id="certificate" align="center">
-    <a href="https://blog.hubspot.com/hubfs/Google%20Drive%20Integration/How%20Far%20Are%20We%20from%20AI%20Singularity%3F%20Progression%20%26%20Implications.png" target="_blank">
+    <a href="https://github.com/sergeiown/sergeiown/blob/main/img/singularity.webp" target="_blank">
         <img
-            src="https://github.com/sergeiown/sergeiown/blob/main/img/connor.png"
+            src="https://github.com/sergeiown/sergeiown/blob/main/img/singularity.webp"
             title="Connor"
             alt="John Connor watching you"
             width="200"
