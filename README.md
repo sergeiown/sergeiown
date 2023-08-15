@@ -26,12 +26,14 @@
 </div>
 &nbsp;
 <div id="certificate" align="center">
-    <img
-        src="https://github.com/sergeiown/sergeiown/blob/main/img/connor.png"
-        title="Connor"
-        alt="John Connor watching you"
-        width="200"
-    />&nbsp;
+    <a href="https://blog.hubspot.com/hubfs/Google%20Drive%20Integration/How%20Far%20Are%20We%20from%20AI%20Singularity%3F%20Progression%20%26%20Implications.png" target="_blank">
+        <img
+            src="https://github.com/sergeiown/sergeiown/blob/main/img/connor.png"
+            title="Connor"
+            alt="John Connor watching you"
+            width="200"
+        />&nbsp;
+     </a>
 </div>
 &nbsp;  
 <div id="counter" align="center">
