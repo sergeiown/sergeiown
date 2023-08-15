@@ -26,7 +26,7 @@
 </div>
 &nbsp;
 <div id="certificate" align="center">
-    <a href="https://github.com/sergeiown/sergeiown/blob/main/img/singularity.webp" target="_blank">
+    <a href="https://en.wikipedia.org/wiki/Technological_singularity" target="_blank">
         <img
             src="https://github.com/sergeiown/sergeiown/blob/main/img/singularity.webp"
             title="Connor"
