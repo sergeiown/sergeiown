@@ -117,6 +117,15 @@
             height="30"
         />&nbsp;
     </a>
+    <a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank">
+        <img
+            src="https://github.com/sergeiown/sergeiown/blob/main/img/batch.svg"
+            title="batch"
+            alt="batch"
+            width="30"
+            height="30"
+        />&nbsp;
+    </a>
     <a href="https://webpack.js.org/" target="_blank">
         <img
             src="https://github.com/sergeiown/sergeiown/blob/main/img/webpack.svg"
