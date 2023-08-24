@@ -6,7 +6,7 @@
         <img src="https://github.com/sergeiown/sergeiown/blob/main/img/hand.svg" alt="hand" width="150" height="100" />
     </a>
 </h1>
-
+&nbsp;
 <div id="badges" align="center">
     <a href="https://t.me/sergeiown" target="_blank">
         <img
@@ -15,7 +15,7 @@
             height="30"
         />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/sehii-myshko/" target="_blank">
         <img
             src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
