@@ -108,7 +108,7 @@
             height="30"
         />&nbsp;
     </a>
-    <a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank">
+    <a href="https://en.wikibooks.org/wiki/Windows_Batch_Scripting" target="_blank">
         <img
             src="https://github.com/sergeiown/sergeiown/blob/main/img/batch.svg"
             title="batch"
