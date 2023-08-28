@@ -84,8 +84,8 @@
     <a href="https://nodejs.org/en/" target="_blank">
         <img
             src="https://github.com/sergeiown/sergeiown/blob/main/img/node-dot-js.svg"
-            title="nodejs"
-            alt="nodejs"
+            title="node.js"
+            alt="node.js"
             width="30"
             height="30"
         />&nbsp;
