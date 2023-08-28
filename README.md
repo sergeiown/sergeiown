@@ -117,20 +117,20 @@
             height="30"
         />&nbsp;
     </a>
+    <a href="https://www.python.org/" target="_blank">
+        <img
+            src="https://github.com/sergeiown/sergeiown/blob/main/img/python.svg"
+            title="python"
+            alt="python"
+            width="30"
+            height="30"
+        />&nbsp;
+    </a>
     <a href="https://eslint.org/" target="_blank">
         <img
             src="https://github.com/sergeiown/sergeiown/blob/main/img/eslint.svg"
             title="eslint"
             alt="eslint"
-            width="30"
-            height="30"
-        />&nbsp;
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank">
-        <img
-            src="https://github.com/sergeiown/sergeiown/blob/main/img/batch.svg"
-            title="batch"
-            alt="batch"
             width="30"
             height="30"
         />&nbsp;
