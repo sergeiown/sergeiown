@@ -120,8 +120,8 @@
     <a href="https://www.python.org/" target="_blank">
         <img
             src="https://github.com/sergeiown/sergeiown/blob/main/img/python.svg"
-            title="python"
-            alt="python"
+            title="python3"
+            alt="python3"
             width="30"
             height="30"
         />&nbsp;
