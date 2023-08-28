@@ -108,6 +108,15 @@
             height="30"
         />&nbsp;
     </a>
+    <a href="https://en.wikibooks.org/wiki/Windows_Batch_Scripting" target="_blank">
+        <img
+            src="https://github.com/sergeiown/sergeiown/blob/main/img/batch.svg"
+            title="batch"
+            alt="batch"
+            width="30"
+            height="30"
+        />&nbsp;
+    </a>
     <a href="https://eslint.org/" target="_blank">
         <img
             src="https://github.com/sergeiown/sergeiown/blob/main/img/eslint.svg"
@@ -124,15 +133,6 @@
             alt="batch"
             width="30"
             height="30"
-        />&nbsp;
-    </a>
-    <a href="https://www.python.org/" target="_blank">
-    <img
-        src="https://github.com/sergeiown/sergeiown/blob/main/img/python.svg"
-        title="batch"
-        alt="batch"
-        width="30"
-        height="30"
         />&nbsp;
     </a>
     <a href="https://webpack.js.org/" target="_blank">
