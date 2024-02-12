@@ -117,7 +117,7 @@
             height="30"
         />&nbsp;
     </a>
-    <a href="https://en.wikibooks.org/wiki/Windows_Batch_Scripting" target="_blank">
+    <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank">
         <img
             src="https://github.com/sergeiown/sergeiown/blob/main/img/powershell.svg"
             title="powershell"
