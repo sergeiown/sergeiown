@@ -202,15 +202,15 @@
         />&nbsp;
     </a>
 </div>
+&nbsp;
+<div id="languages" align="center">
+     <a href="https://github.com/sergeiown/sergeiown" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeiown&langs_count=6&layout=compact&hide_progress=true&theme=cobalt" alt="Languages" title="Most Used Languages" width="360" />
+    </a>
+</div>
 
 ##
 
-<div id="languages" align="center">
-     <a href="https://github.com/sergeiown/sergeiown" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeiown&langs_count=6&layout=compact&theme=cobalt" alt="Languages" title="Most Used Languages" width="360" />
-    </a>
-</div>
-&nbsp;
 <div id="singularity" align="center">
     <a href="https://en.wikipedia.org/wiki/Technological_singularity" target="_blank">
         <img
@@ -219,5 +219,5 @@
             alt="Technological singularity"
             width="360"
         />
-     </a>
+    </a>
 </div>
