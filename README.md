@@ -2,7 +2,7 @@
     <a href="https://github.com/sergeiown" target="_blank">
         <img src="https://github.com/sergeiown/sergeiown/blob/main/img/heythere.svg" alt="hey there" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;
     <a href="https://github.com/sergeiown" target="_blank">
         <img src="https://github.com/sergeiown/sergeiown/blob/main/img/hand.svg" alt="hand" width="150" height="100" />
     </a>
@@ -16,11 +16,11 @@
             height="30"
         />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;
     <a href="https://www.codewars.com/users/sergeiown" target="_blank">
         <img src="https://www.codewars.com/users/sergeiown/badges/micro" alt="code wars" height="30" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;
     <a href="https://www.linkedin.com/in/sehii-myshko/" target="_blank">
         <img
             src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -28,7 +28,6 @@
             height="30"
         />&nbsp;
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 &nbsp;
 <div id="info" align="center">
