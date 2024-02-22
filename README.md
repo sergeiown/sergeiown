@@ -1,9 +1,9 @@
 <h1 align="center" style="color: #daae0c">
     <a href="https://github.com/sergeiown" target="_blank">
-        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/heythere.svg" alt="hey there" />
+        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/heythere.svg" alt="hey there" width="250" />
     </a>
     <a href="https://github.com/sergeiown" target="_blank">
-        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/hand.svg" alt="hand" width="150" height="100" />
+        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/hand.svg" alt="hand" width="110" height="80" />
     </a>
 </h1>
 &nbsp;
@@ -32,7 +32,8 @@
         <img src="https://www.codewars.com/users/sergeiown/badges/micro" alt="Code wars" title="Code wars" height="30"/>
     </a>
 </div>
-&nbsp;  
+
+##
 
 <h3 align="center">:hammer_and_wrench: Tools :</h3>
 
@@ -118,6 +119,7 @@
             height="30"
         />&nbsp;
     </a>
+    <br>
     <a href="https://www.python.org/" target="_blank">
         <img
             src="https://github.com/sergeiown/sergeiown/blob/main/img/python.svg"
@@ -205,7 +207,7 @@
 
 <div id="languages" align="center">
      <a href="https://github.com/sergeiown/sergeiown" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeiown&langs_count=6&layout=compact&theme=cobalt" alt="Languages" title="Most Used Languages" width="415" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeiown&langs_count=6&layout=compact&theme=cobalt" alt="Languages" title="Most Used Languages" width="360" />
     </a>
 </div>
 &nbsp;
@@ -215,7 +217,7 @@
             src="https://github.com/sergeiown/sergeiown/blob/main/img/singularity.webp"
             title="Technological singularity"
             alt="Technological singularity"
-            width="415"
+            width="360"
         />
      </a>
 </div>
