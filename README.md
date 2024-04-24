@@ -45,8 +45,9 @@
             alt="html5"
             width="30"
             height="30"
-        />&nbsp;
+        />
     </a>
+    &nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
         <img
             src="https://github.com/sergeiown/sergeiown/blob/main/img/css3.svg"
@@ -54,8 +55,9 @@
             alt="css3"
             width="30"
             height="30"
-        />&nbsp;
+        />
     </a>
+    &nbsp;
     <a href="https://sass-lang.com/guide" target="_blank">
         <img
             src="https://github.com/sergeiown/sergeiown/blob/main/img/sass.svg"
@@ -63,8 +65,9 @@
             alt="sass"
             width="30"
             height="30"
-        />&nbsp;
+        />
     </a>
+    &nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img
             src="https://github.com/sergeiown/sergeiown/blob/main/img/javascript.svg"
@@ -72,8 +75,9 @@
             alt="javascript"
             width="30"
             height="30"
-        />&nbsp;
+        />
     </a>
+    &nbsp;
     <a href="https://nodejs.org/en/" target="_blank">
         <img
             src="https://github.com/sergeiown/sergeiown/blob/main/img/node-dot-js.svg"
@@ -81,8 +85,9 @@
             alt="node.js"
             width="30"
             height="30"
-        />&nbsp;
+        />
     </a>
+    &nbsp;
     <a href="https://reactjs.org/" target="_blank">
         <img
             src="https://github.com/sergeiown/sergeiown/blob/main/img/react.svg"
@@ -90,8 +95,9 @@
             alt="react"
             width="30"
             height="30"
-        />&nbsp;
+        />
     </a>
+    &nbsp;
     <a href="https://www.jetbrains.com/webstorm/" target="_blank">
         <img
             src="https://github.com/sergeiown/sergeiown/blob/main/img/webstorm.svg"
@@ -99,8 +105,9 @@
             alt="webstorm"
             width="30"
             height="30"
-        />&nbsp;
+        />
     </a>
+    &nbsp;
     <a href="https://en.wikibooks.org/wiki/Windows_Batch_Scripting" target="_blank">
         <img
             src="https://github.com/sergeiown/sergeiown/blob/main/img/batch.svg"
@@ -108,8 +115,9 @@
             alt="batch script"
             width="30"
             height="30"
-        />&nbsp;
+        />
     </a>
+    &nbsp;
     <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank">
         <img
             src="https://github.com/sergeiown/sergeiown/blob/main/img/powershell.svg"
@@ -117,7 +125,7 @@
             alt="powershell"
             width="30"
             height="30"
-        />&nbsp;
+        />
     </a>
     <br>
     <a href="https://www.python.org/" target="_blank">
@@ -127,8 +135,9 @@
             alt="python3"
             width="30"
             height="30"
-        />&nbsp;
+        />
     </a>
+    &nbsp;
     <a href="https://eslint.org/" target="_blank">
         <img
             src="https://github.com/sergeiown/sergeiown/blob/main/img/eslint.svg"
@@ -136,8 +145,9 @@
             alt="eslint"
             width="30"
             height="30"
-        />&nbsp;
+        />
     </a>
+    &nbsp;
     <a href="https://webpack.js.org/" target="_blank">
         <img
             src="https://github.com/sergeiown/sergeiown/blob/main/img/webpack.svg"
@@ -145,8 +155,9 @@
             alt="webpack"
             width="30"
             height="30"
-        />&nbsp;
+        />
     </a>
+    &nbsp;
     <a href="https://babeljs.io/" target="_blank">
         <img
             src="https://github.com/sergeiown/sergeiown/blob/main/img/babel.svg"
@@ -154,8 +165,9 @@
             alt="babel"
             width="30"
             height="30"
-        />&nbsp;
+        />
     </a>
+    &nbsp;
     <a href="https://www.figma.com/" target="_blank">
         <img
             src="https://github.com/sergeiown/sergeiown/blob/main/img/figma.svg"
@@ -163,8 +175,9 @@
             alt="figma"
             width="30"
             height="30"
-        />&nbsp;
+        />
     </a>
+    &nbsp;
     <a href="https://git-scm.com/" target="_blank">
         <img
             src="https://github.com/sergeiown/sergeiown/blob/main/img/git.svg"
@@ -172,8 +185,9 @@
             alt="git"
             width="30"
             height="30"
-        />&nbsp;
+        />
     </a>
+    &nbsp;
     <a href="https://github.com/sergeiown" target="_blank">
         <img
             src="https://github.com/sergeiown/sergeiown/blob/main/img/github.svg"
@@ -181,8 +195,9 @@
             alt="github"
             width="30"
             height="30"
-        />&nbsp;
+        />
     </a>
+    &nbsp;
     <a href="https://code.visualstudio.com/" target="_blank">
         <img
             src="https://github.com/sergeiown/sergeiown/blob/main/img/visualstudiocode.svg"
@@ -190,8 +205,9 @@
             alt="visualstudio code"
             width="30"
             height="30"
-        />&nbsp;
+        />
     </a>
+    &nbsp;
     <a href="https://prepros.io/" target="_blank">
         <img
             src="https://github.com/sergeiown/sergeiown/blob/main/img/prepros.svg"
@@ -199,7 +215,7 @@
             alt="prepros"
             width="30"
             height="30"
-        />&nbsp;
+        />
     </a>
 </div>
 
