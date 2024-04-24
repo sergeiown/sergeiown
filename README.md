@@ -13,6 +13,7 @@
             src="https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=telegram&logoColor=white"
             alt="Telegram Badge"
             title="Telegram"
+            width="122"
             height="30"
         />
     </a>
@@ -22,6 +23,7 @@
             src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="LinkedIn Badge"
             title="LinkedIn"
+            width="122"
             height="30"
         />
     </a>
