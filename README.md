@@ -223,8 +223,8 @@
 &nbsp;
 <div id="languages" align="center">
      <a href="https://github.com/sergeiown/" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeiown&langs_count=6&layout=compact&hide_title=true&hide_border=true&border_radius=1&theme=cobalt" alt="Languages" title="Most Used Languages" width="360" />
-<!--         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeiown&langs_count=6&layout=compact&hide_title=true&hide_progress=true&hide_border=true&border_radius=1&theme=cobalt" alt="Languages" title="Most Used Languages" width="360" /> -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeiown&langs_count=8&layout=compact&hide_title=true&hide_border=true&border_radius=1&theme=cobalt" alt="Languages" title="Most Used Languages" width="360" />
+<!--         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeiown&langs_count=8&layout=compact&hide_title=true&hide_progress=true&hide_border=true&border_radius=1&theme=cobalt" alt="Languages" title="Most Used Languages" width="360" /> -->
     </a>
 </div>
 
