@@ -28,12 +28,12 @@
         />
     </a>
 </div>
-&nbsp;
+<!-- &nbsp;
 <div id="codewars" align="center">
     <a href="https://www.codewars.com/users/sergeiown" target="_blank">
         <img src="https://www.codewars.com/users/sergeiown/badges/micro" alt="Code wars" title="Code wars" height="30"/>
     </a>
-</div>
+</div> -->
 
 ##
 
