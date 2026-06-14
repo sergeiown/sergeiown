@@ -1,15 +1,20 @@
 <h1 align="center" style="color: #daae0c">
     <a href="https://github.com/sergeiown" target="_blank">
-        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/heythere.svg" alt="hey there" width="250" />
+        <img src="https://raw.githubusercontent.com/sergeiown/sergeiown/main/img/heythere.svg" alt="hey there" width="250" />
     </a>
     <a href="https://github.com/sergeiown" target="_blank">
-        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/hand.svg" alt="hand" width="110" height="80" />
+        <img src="https://raw.githubusercontent.com/sergeiown/sergeiown/main/img/hand.svg" alt="hand" width="110" height="80" />
     </a>
 </h1>
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DAAE0C&center=true&vCenter=true&width=450&lines=Tech+Enthusiast;JS+%2F+Node.js+%2F+Python;Pet+projects+%26+open-source" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DAAE0C&center=true&vCenter=true&width=500&lines=Lead+by+day%2C+coder+by+night;20%2B+yrs+in+tech%2C+one+bold+pivot;From+railways+to+embedded+IoT;This+is+where+I+tinker" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  I lead by day and still write more code than memos. 20-some years from railways to embedded IoT, and still going.<br>
+  This profile is the personal lab, not the CV.
+</p>
 
 &nbsp;
 
@@ -23,7 +28,7 @@
         />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/sehii-myshko/" target="_blank">
+    <a href="https://www.linkedin.com/in/serhii-myshko/" target="_blank">
         <img
             src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="LinkedIn"
@@ -48,31 +53,31 @@
 
 <div align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/html5.svg" title="HTML5" alt="HTML5" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/sergeiown/sergeiown/main/img/html5.svg" title="HTML5" alt="HTML5" width="30" height="30" />
     </a>
     &nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/css3.svg" title="CSS3" alt="CSS3" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/sergeiown/sergeiown/main/img/css3.svg" title="CSS3" alt="CSS3" width="30" height="30" />
     </a>
     &nbsp;
     <a href="https://sass-lang.com/guide" target="_blank">
-        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/sass.svg" title="Sass" alt="Sass" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/sergeiown/sergeiown/main/img/sass.svg" title="Sass" alt="Sass" width="30" height="30" />
     </a>
     &nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/javascript.svg" title="JavaScript" alt="JavaScript" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/sergeiown/sergeiown/main/img/javascript.svg" title="JavaScript" alt="JavaScript" width="30" height="30" />
     </a>
     &nbsp;
     <a href="https://nodejs.org/en/" target="_blank">
-        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/node-dot-js.svg" title="Node.js" alt="Node.js" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/sergeiown/sergeiown/main/img/node-dot-js.svg" title="Node.js" alt="Node.js" width="30" height="30" />
     </a>
     &nbsp;
     <a href="https://reactjs.org/" target="_blank">
-        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/react.svg" title="React" alt="React" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/sergeiown/sergeiown/main/img/react.svg" title="React" alt="React" width="30" height="30" />
     </a>
     &nbsp;
     <a href="https://www.python.org/" target="_blank">
-        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/python.svg" title="Python" alt="Python" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/sergeiown/sergeiown/main/img/python.svg" title="Python" alt="Python" width="30" height="30" />
     </a>
 </div>
 
@@ -82,11 +87,11 @@
 
 <div align="center">
     <a href="https://en.wikibooks.org/wiki/Windows_Batch_Scripting" target="_blank">
-        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/batch.svg" title="Batch Script" alt="Batch Script" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/sergeiown/sergeiown/main/img/batch.svg" title="Batch Script" alt="Batch Script" width="30" height="30" />
     </a>
     &nbsp;
     <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank">
-        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/powershell.svg" title="PowerShell" alt="PowerShell" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/sergeiown/sergeiown/main/img/powershell.svg" title="PowerShell" alt="PowerShell" width="30" height="30" />
     </a>
 </div>
 
@@ -96,31 +101,31 @@
 
 <div align="center">
     <a href="https://prepros.io/" target="_blank">
-        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/prepros.png" title="Prepros" alt="Prepros" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/sergeiown/sergeiown/main/img/prepros.png" title="Prepros" alt="Prepros" width="30" height="30" />
     </a>
     &nbsp;
     <a href="https://eslint.org/" target="_blank">
-        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/eslint.svg" title="ESLint" alt="ESLint" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/sergeiown/sergeiown/main/img/eslint.svg" title="ESLint" alt="ESLint" width="30" height="30" />
     </a>
     &nbsp;
     <a href="https://webpack.js.org/" target="_blank">
-        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/webpack.svg" title="Webpack" alt="Webpack" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/sergeiown/sergeiown/main/img/webpack.svg" title="Webpack" alt="Webpack" width="30" height="30" />
     </a>
     &nbsp;
     <a href="https://babeljs.io/" target="_blank">
-        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/babel.svg" title="Babel" alt="Babel" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/sergeiown/sergeiown/main/img/babel.svg" title="Babel" alt="Babel" width="30" height="30" />
     </a>
     &nbsp;
     <a href="https://www.figma.com/" target="_blank">
-        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/figma.svg" title="Figma" alt="Figma" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/sergeiown/sergeiown/main/img/figma.svg" title="Figma" alt="Figma" width="30" height="30" />
     </a>
     &nbsp;
     <a href="https://git-scm.com/" target="_blank">
-        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/git.svg" title="Git" alt="Git" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/sergeiown/sergeiown/main/img/git.svg" title="Git" alt="Git" width="30" height="30" />
     </a>
     &nbsp;
     <a href="https://github.com/sergeiown" target="_blank">
-        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/github.svg" title="GitHub" alt="GitHub" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/sergeiown/sergeiown/main/img/github.svg" title="GitHub" alt="GitHub" width="30" height="30" />
     </a>
 </div>
 
@@ -130,15 +135,15 @@
 
 <div align="center">
     <a href="https://www.jetbrains.com/webstorm/" target="_blank">
-        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/webstorm.svg" title="WebStorm" alt="WebStorm" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/sergeiown/sergeiown/main/img/webstorm.svg" title="WebStorm" alt="WebStorm" width="30" height="30" />
     </a>
     &nbsp;
     <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/visualstudiocode.svg" title="VS Code" alt="VS Code" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/sergeiown/sergeiown/main/img/visualstudiocode.svg" title="VS Code" alt="VS Code" width="30" height="30" />
     </a>
     &nbsp;
     <a href="https://claude.ai/code" target="_blank">
-        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/claude.svg" title="Claude Code" alt="Claude Code" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/sergeiown/sergeiown/main/img/claude.svg" title="Claude Code" alt="Claude Code" width="30" height="30" />
     </a>
 </div>
 
@@ -167,7 +172,7 @@
 <div id="singularity" align="center">
     <a href="https://en.wikipedia.org/wiki/Technological_singularity" target="_blank">
         <img
-            src="https://github.com/sergeiown/sergeiown/blob/main/img/singularity.webp"
+            src="https://raw.githubusercontent.com/sergeiown/sergeiown/main/img/singularity.webp"
             title="Technological singularity"
             alt="Technological singularity"
             width="360"
