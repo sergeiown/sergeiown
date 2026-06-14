@@ -95,6 +95,10 @@
 <div align="center"><sup>Dev Tools</sup></div>
 
 <div align="center">
+    <a href="https://prepros.io/" target="_blank">
+        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/prepros.png" title="Prepros" alt="Prepros" width="30" height="30" />
+    </a>
+    &nbsp;
     <a href="https://eslint.org/" target="_blank">
         <img src="https://github.com/sergeiown/sergeiown/blob/main/img/eslint.svg" title="ESLint" alt="ESLint" width="30" height="30" />
     </a>
@@ -117,10 +121,6 @@
     &nbsp;
     <a href="https://github.com/sergeiown" target="_blank">
         <img src="https://github.com/sergeiown/sergeiown/blob/main/img/github.svg" title="GitHub" alt="GitHub" width="30" height="30" />
-    </a>
-    &nbsp;
-    <a href="https://prepros.io/" target="_blank">
-        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/prepros.png" title="Prepros" alt="Prepros" width="30" height="30" />
     </a>
 </div>
 
