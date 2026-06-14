@@ -8,13 +8,8 @@
 </h1>
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DAAE0C&center=true&vCenter=true&width=500&lines=Lead+by+day%2C+coder+by+night;20%2B+yrs+in+tech%2C+one+bold+pivot;From+railways+to+embedded+IoT;This+is+where+I+tinker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DAAE0C&center=true&vCenter=true&width=700&lines=Manages+engineers+by+day%2C+argues+with+compilers+by+night;Once+kept+trains+on+time%2C+now+keep+firmware+in+line;Be+realistic%2C+demand+the+impossible;This+is+the+lab%2C+not+the+portfolio" alt="Typing SVG" />
 </div>
-
-<p align="center">
-  Manages engineers by day, argues with compilers by night.<br>
-  This is the lab, not the portfolio.
-</p>
 
 &nbsp;
 
