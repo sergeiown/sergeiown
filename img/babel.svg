@@ -7,7 +7,7 @@
     animation-direction: normal;
     animation-timing-function: ease-out;
     animation-fill-mode: forwards;
-    animation-delay: 5s;
+    animation-delay: 6.0s;
     opacity: 0;
   }
   @keyframes open {
