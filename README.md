@@ -126,7 +126,7 @@
 
 &nbsp;
 
-<div align="center"><sup>IDEs &amp; Editors</sup></div>
+<div align="center"><sup>IDEs &amp; AI Tools</sup></div>
 
 <div align="center">
     <a href="https://www.jetbrains.com/webstorm/" target="_blank">
@@ -135,6 +135,10 @@
     &nbsp;
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://github.com/sergeiown/sergeiown/blob/main/img/visualstudiocode.svg" title="VS Code" alt="VS Code" width="30" height="30" />
+    </a>
+    &nbsp;
+    <a href="https://claude.ai/code" target="_blank">
+        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/claude.svg" title="Claude Code" alt="Claude Code" width="30" height="30" />
     </a>
 </div>
 
@@ -154,28 +158,6 @@
     </a>
     <br>
     <sub>Local meeting transcription with speaker diarization and known-speaker recognition (Whisper + pyannote)</sub>
-</div>
-
-&nbsp;
-
-##
-
-<h3 align="center">:bar_chart: GitHub Stats :</h3>
-
-<div align="center">
-    <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeiown&layout=compact&bg_color=0d1117&title_color=daae0c&text_color=ffffff&border_color=30363d"
-        alt="Top Languages"
-        title="Top Languages"
-        height="150"
-    />
-    &nbsp;&nbsp;
-    <img
-        src="https://github-readme-stats.vercel.app/api?username=sergeiown&show_icons=true&bg_color=0d1117&title_color=daae0c&text_color=ffffff&icon_color=daae0c&border_color=30363d"
-        alt="GitHub Stats"
-        title="GitHub Stats"
-        height="150"
-    />
 </div>
 
 &nbsp;
