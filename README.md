@@ -171,9 +171,9 @@
     />
     &nbsp;&nbsp;
     <img
-        src="https://github-readme-streak-stats.demolab.com/?user=sergeiown&theme=dark&ring=daae0c&fire=daae0c&currStreakLabel=daae0c&sideLabels=daae0c&border=30363d"
-        alt="GitHub Streak"
-        title="GitHub Streak"
+        src="https://github-readme-stats.vercel.app/api?username=sergeiown&show_icons=true&bg_color=0d1117&title_color=daae0c&text_color=ffffff&icon_color=daae0c&border_color=30363d"
+        alt="GitHub Stats"
+        title="GitHub Stats"
         height="150"
     />
 </div>
