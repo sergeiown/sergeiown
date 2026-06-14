@@ -120,7 +120,7 @@
     </a>
     &nbsp;
     <a href="https://prepros.io/" target="_blank">
-        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/prepros.svg" title="Prepros" alt="Prepros" width="30" height="30" />
+        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/prepros.png" title="Prepros" alt="Prepros" width="30" height="30" />
     </a>
 </div>
 
