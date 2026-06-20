@@ -8,7 +8,10 @@
 </h1>
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DAAE0C&center=true&vCenter=true&width=700&lines=Manages+engineers+by+day%2C+argues+with+compilers+by+night;Once+kept+trains+on+time%2C+now+keep+firmware+in+line;Be+realistic%2C+demand+the+impossible;This+is+the+lab%2C+not+the+portfolio" alt="Typing SVG" />
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DAAE0C&center=true&vCenter=true&width=700&lines=Manages+engineers+by+day%2C+argues+with+compilers+by+night;Once+kept+trains+on+time%2C+now+keep+firmware+in+line;Be+realistic%2C+demand+the+impossible;This+is+the+lab%2C+not+the+portfolio" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B6914&center=true&vCenter=true&width=700&lines=Manages+engineers+by+day%2C+argues+with+compilers+by+night;Once+kept+trains+on+time%2C+now+keep+firmware+in+line;Be+realistic%2C+demand+the+impossible;This+is+the+lab%2C+not+the+portfolio" alt="Typing SVG" />
+    </picture>
 </div>
 
 &nbsp;
