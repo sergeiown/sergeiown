@@ -74,6 +74,10 @@
         <img src="https://github.com/sergeiown/sergeiown/blob/main/img/react.svg" title="React" alt="React" width="30" height="30" />
     </a>
     &nbsp;
+    <a href="https://www.electronjs.org/" target="_blank">
+        <img src="https://github.com/sergeiown/sergeiown/blob/main/img/electron.svg" title="Electron" alt="Electron" width="30" height="30" />
+    </a>
+    &nbsp;
     <a href="https://www.python.org/" target="_blank">
         <img src="https://github.com/sergeiown/sergeiown/blob/main/img/python.svg" title="Python" alt="Python" width="30" height="30" />
     </a>
