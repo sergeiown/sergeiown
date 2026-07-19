@@ -154,34 +154,38 @@
 <div align="center">
     <a href="https://github.com/sergeiown/MeetingScribe" target="_blank"><img src="https://img.shields.io/badge/MeetingScribe-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="MeetingScribe" title="MeetingScribe" height="30" /></a>
     &nbsp;
-    <a href="https://github.com/sergeiown/MeetingScribe/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/MeetingScribe?label=release&style=for-the-badge" alt="latest release" title="latest release" height="30" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/sergeiown/Alert_Server" target="_blank"><img src="https://img.shields.io/badge/Alert__Server-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Alert_Server" title="Alert_Server" height="30" /></a>
-    &nbsp;
-    <a href="https://github.com/sergeiown/Alert_Server/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/Alert_Server?label=release&style=for-the-badge" alt="latest release" title="latest release" height="30" /></a>
+    <a href="https://github.com/sergeiown/MeetingScribe/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/MeetingScribe?label=release&style=for-the-badge&color=1f6feb" alt="latest release" title="latest release" height="30" /></a>
+    <br>
+    <sub>Local meeting transcription with speaker diarization and known-speaker recognition (Whisper + pyannote)</sub>
 </div>
 
+&nbsp;
+
 <div align="center">
-    <sub>Local meeting transcription with speaker diarization and known-speaker recognition (Whisper + pyannote)</sub>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/sergeiown/Alert_Server" target="_blank"><img src="https://img.shields.io/badge/Alert__Server-d1242f?style=for-the-badge&logo=github&logoColor=white" alt="Alert_Server" title="Alert_Server" height="30" /></a>
+    &nbsp;
+    <a href="https://github.com/sergeiown/Alert_Server/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/Alert_Server?label=release&style=for-the-badge&color=d1242f" alt="latest release" title="latest release" height="30" /></a>
+    <br>
     <sub>Windows tray app for air-raid alerts from alerts.in.ua, delivered via the Windows Notification Center</sub>
 </div>
 
 &nbsp;
 
 <div align="center">
-    <a href="https://github.com/sergeiown/batch_PDF_compressor" target="_blank"><img src="https://img.shields.io/badge/batch__PDF__compressor-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="batch_PDF_compressor" title="batch_PDF_compressor" height="30" /></a>
+    <a href="https://github.com/sergeiown/batch_PDF_compressor" target="_blank"><img src="https://img.shields.io/badge/batch__PDF__compressor-1a7f37?style=for-the-badge&logo=github&logoColor=white" alt="batch_PDF_compressor" title="batch_PDF_compressor" height="30" /></a>
     &nbsp;
-    <a href="https://github.com/sergeiown/batch_PDF_compressor/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/batch_PDF_compressor?label=release&style=for-the-badge" alt="latest release" title="latest release" height="30" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/sergeiown/Winget_Upgrade" target="_blank"><img src="https://img.shields.io/badge/Winget__Upgrade-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Winget_Upgrade" title="Winget_Upgrade" height="30" /></a>
-    &nbsp;
-    <a href="https://github.com/sergeiown/Winget_Upgrade/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/Winget_Upgrade?label=release&style=for-the-badge" alt="latest release" title="latest release" height="30" /></a>
+    <a href="https://github.com/sergeiown/batch_PDF_compressor/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/batch_PDF_compressor?label=release&style=for-the-badge&color=1a7f37" alt="latest release" title="latest release" height="30" /></a>
+    <br>
+    <sub>Batch script that compresses all PDFs in a folder tree, with selectable compression levels</sub>
 </div>
 
+&nbsp;
+
 <div align="center">
-    <sub>Batch script that compresses all PDFs in a folder tree, with selectable compression levels</sub>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/sergeiown/Winget_Upgrade" target="_blank"><img src="https://img.shields.io/badge/Winget__Upgrade-8250df?style=for-the-badge&logo=github&logoColor=white" alt="Winget_Upgrade" title="Winget_Upgrade" height="30" /></a>
+    &nbsp;
+    <a href="https://github.com/sergeiown/Winget_Upgrade/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/Winget_Upgrade?label=release&style=for-the-badge&color=8250df" alt="latest release" title="latest release" height="30" /></a>
+    <br>
     <sub>Node.js CLI that keeps Windows software up to date via Winget, with a package ignore list and event log</sub>
 </div>
 
