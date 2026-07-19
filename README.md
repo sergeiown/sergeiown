@@ -165,6 +165,20 @@
 
 &nbsp;
 
+<div id="projects" align="center">
+    <a href="https://github.com/sergeiown/Alert_Server" target="_blank">
+        <img src="https://img.shields.io/badge/Alert_Server-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Alert_Server" title="Alert_Server" height="30" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/sergeiown/Alert_Server/releases/latest" target="_blank">
+        <img src="https://img.shields.io/github/v/release/sergeiown/Alert_Server?label=release&style=for-the-badge" alt="latest release" title="latest release" height="30" />
+    </a>
+    <br>
+    <sub>Windows tray app for air-raid alerts from alerts.in.ua, delivered via the Windows Notification Center</sub>
+</div>
+
+&nbsp;
+
 ##
 
 <div id="singularity" align="center">
