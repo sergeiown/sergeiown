@@ -156,11 +156,31 @@
 <h3 align="center">:rocket: Projects :</h3>
 
 <div align="center">
+    <a href="https://github.com/sergeiown/ClaudeQuota" target="_blank"><img src="https://img.shields.io/badge/ClaudeQuota-d97757?style=for-the-badge&logo=github&logoColor=white" alt="ClaudeQuota" title="ClaudeQuota" height="30" /></a>
+    &nbsp;
+    <a href="https://github.com/sergeiown/ClaudeQuota/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/ClaudeQuota?label=release&style=for-the-badge&color=d97757" alt="latest release" title="latest release" height="30" /></a>
+    <br>
+    <sub>Windows tray app that tracks Claude 5-hour and weekly usage limits</sub>
+</div>
+
+&nbsp;
+
+<div align="center">
     <a href="https://github.com/sergeiown/MeetingScribe" target="_blank"><img src="https://img.shields.io/badge/MeetingScribe-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="MeetingScribe" title="MeetingScribe" height="30" /></a>
     &nbsp;
     <a href="https://github.com/sergeiown/MeetingScribe/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/MeetingScribe?label=release&style=for-the-badge&color=1f6feb" alt="latest release" title="latest release" height="30" /></a>
     <br>
     <sub>Local meeting transcription with speaker diarization and known-speaker recognition (Whisper + pyannote)</sub>
+</div>
+
+&nbsp;
+
+<div align="center">
+    <a href="https://github.com/sergeiown/Winget_Upgrade" target="_blank"><img src="https://img.shields.io/badge/Winget__Upgrade-8250df?style=for-the-badge&logo=github&logoColor=white" alt="Winget_Upgrade" title="Winget_Upgrade" height="30" /></a>
+    &nbsp;
+    <a href="https://github.com/sergeiown/Winget_Upgrade/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/Winget_Upgrade?label=release&style=for-the-badge&color=8250df" alt="latest release" title="latest release" height="30" /></a>
+    <br>
+    <sub>Node.js CLI that keeps Windows software up to date via Winget, with a package ignore list and event log</sub>
 </div>
 
 &nbsp;
@@ -183,15 +203,6 @@
     <sub>Batch script that compresses all PDFs in a folder tree, with selectable compression levels</sub>
 </div>
 
-&nbsp;
-
-<div align="center">
-    <a href="https://github.com/sergeiown/Winget_Upgrade" target="_blank"><img src="https://img.shields.io/badge/Winget__Upgrade-8250df?style=for-the-badge&logo=github&logoColor=white" alt="Winget_Upgrade" title="Winget_Upgrade" height="30" /></a>
-    &nbsp;
-    <a href="https://github.com/sergeiown/Winget_Upgrade/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/Winget_Upgrade?label=release&style=for-the-badge&color=8250df" alt="latest release" title="latest release" height="30" /></a>
-    <br>
-    <sub>Node.js CLI that keeps Windows software up to date via Winget, with a package ignore list and event log</sub>
-</div>
 
 &nbsp;
 
