@@ -156,6 +156,16 @@
 <h3 align="center">:rocket: Projects :</h3>
 
 <div align="center">
+    <a href="https://github.com/sergeiown/Alert_Server" target="_blank"><img src="https://img.shields.io/badge/Alert__Server-d1242f?style=for-the-badge&logo=github&logoColor=white" alt="Alert_Server" title="Alert_Server" height="30" /></a>
+    &nbsp;
+    <a href="https://github.com/sergeiown/Alert_Server/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/Alert_Server?label=release&style=for-the-badge&color=d1242f" alt="latest release" title="latest release" height="30" /></a>
+    <br>
+    <sub>Windows tray app for air-raid alerts from alerts.in.ua, delivered via the Windows Notification Center</sub>
+</div>
+
+&nbsp;
+
+<div align="center">
     <a href="https://github.com/sergeiown/ClaudeQuota" target="_blank"><img src="https://img.shields.io/badge/ClaudeQuota-d97757?style=for-the-badge&logo=github&logoColor=white" alt="ClaudeQuota" title="ClaudeQuota" height="30" /></a>
     &nbsp;
     <a href="https://github.com/sergeiown/ClaudeQuota/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/ClaudeQuota?label=release&style=for-the-badge&color=d97757" alt="latest release" title="latest release" height="30" /></a>
@@ -181,16 +191,6 @@
     <a href="https://github.com/sergeiown/Winget_Upgrade/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/Winget_Upgrade?label=release&style=for-the-badge&color=8250df" alt="latest release" title="latest release" height="30" /></a>
     <br>
     <sub>Node.js CLI that keeps Windows software up to date via Winget, with a package ignore list and event log</sub>
-</div>
-
-&nbsp;
-
-<div align="center">
-    <a href="https://github.com/sergeiown/Alert_Server" target="_blank"><img src="https://img.shields.io/badge/Alert__Server-d1242f?style=for-the-badge&logo=github&logoColor=white" alt="Alert_Server" title="Alert_Server" height="30" /></a>
-    &nbsp;
-    <a href="https://github.com/sergeiown/Alert_Server/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/Alert_Server?label=release&style=for-the-badge&color=d1242f" alt="latest release" title="latest release" height="30" /></a>
-    <br>
-    <sub>Windows tray app for air-raid alerts from alerts.in.ua, delivered via the Windows Notification Center</sub>
 </div>
 
 &nbsp;
