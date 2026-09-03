@@ -160,7 +160,7 @@
     &nbsp;
     <a href="https://github.com/sergeiown/Alert_Server/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/Alert_Server?label=release&style=for-the-badge&color=d1242f" alt="latest release" title="latest release" height="30" /></a>
     <br>
-    <sub>Windows tray app for air-raid alerts from alerts.in.ua, delivered via the Windows Notification Center</sub>
+    <sub>Electron tray app for Ukrainian air-raid alerts (UkraineAlarm/alerts.in.ua) with live threat map, regional forecasts, weapon-usage trends, and siren/voice notifications</sub>
 </div>
 
 &nbsp;
@@ -180,7 +180,7 @@
     &nbsp;
     <a href="https://github.com/sergeiown/ClaudeQuota/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/ClaudeQuota?label=release&style=for-the-badge&color=d97757" alt="latest release" title="latest release" height="30" /></a>
     <br>
-    <sub>Windows tray app that tracks Claude 5-hour and weekly usage limits</sub>
+    <sub>Windows tray app showing Claude 5-hour and weekly usage limits in the tray icon</sub>
 </div>
 
 &nbsp;
@@ -190,7 +190,7 @@
     &nbsp;
     <a href="https://github.com/sergeiown/MeetingScribe/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/MeetingScribe?label=release&style=for-the-badge&color=1f6feb" alt="latest release" title="latest release" height="30" /></a>
     <br>
-    <sub>Local meeting transcription with speaker diarization and known-speaker recognition (Whisper + pyannote)</sub>
+    <sub>Local meeting transcription with speaker diarization and known-speaker recognition (Whisper + pyannote), runs offline</sub>
 </div>
 
 &nbsp;
