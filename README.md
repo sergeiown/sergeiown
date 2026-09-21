@@ -180,7 +180,7 @@
     &nbsp;
     <a href="https://github.com/sergeiown/ClaudeQuota/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/ClaudeQuota?label=release&style=for-the-badge&color=d97757" alt="latest release" title="latest release" height="30" /></a>
     <br>
-    <sub>Windows tray app showing Claude 5-hour and weekly usage limits in the tray icon</sub>
+    <sub>Windows tray app for your Claude usage limits - sets itself up, no terminal needed</sub>
 </div>
 
 &nbsp;
@@ -190,7 +190,7 @@
     &nbsp;
     <a href="https://github.com/sergeiown/MeetingScribe/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/MeetingScribe?label=release&style=for-the-badge&color=1f6feb" alt="latest release" title="latest release" height="30" /></a>
     <br>
-    <sub>Local meeting transcription with speaker diarization and known-speaker recognition (Whisper + pyannote), runs offline</sub>
+    <sub>Native Windows desktop app for local meeting transcription with speaker diarization and known-speaker recognition (Whisper + pyannote), runs fully offline</sub>
 </div>
 
 &nbsp;
