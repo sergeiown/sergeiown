@@ -190,7 +190,7 @@
     &nbsp;
     <a href="https://github.com/sergeiown/MeetingScribe/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/MeetingScribe?label=release&style=for-the-badge&color=1f6feb" alt="latest release" title="latest release" height="30" /></a>
     <br>
-    <sub>Native Windows desktop app for local meeting transcription with speaker diarization and known-speaker recognition (Whisper + pyannote), runs fully offline</sub>
+    <sub>Native Windows desktop app that records meetings and transcribes them with speaker diarization and known-speaker recognition (Whisper + pyannote), runs fully offline</sub>
 </div>
 
 &nbsp;
