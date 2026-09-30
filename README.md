@@ -160,7 +160,7 @@
     &nbsp;
     <a href="https://github.com/sergeiown/Alert_Server/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/Alert_Server?label=release&style=for-the-badge&color=d1242f" alt="latest release" title="latest release" height="30" /></a>
     <br>
-    <sub>Electron tray app for Ukrainian air-raid alerts (UkraineAlarm/alerts.in.ua) with live threat map, regional forecasts, weapon-usage trends, and siren/voice notifications</sub>
+    <sub>Electron tray app for Ukrainian air-raid alerts with its own backend (alerts.in.ua primary, Neptun/UkraineAlarm fallback), live threat map, forecasts, weapon-usage trends, and siren/voice notifications</sub>
 </div>
 
 &nbsp;
