@@ -155,7 +155,9 @@
 
 <h3 align="center">:rocket: Projects :</h3>
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center">
     <a href="https://github.com/sergeiown/Alert_Server" target="_blank"><img src="https://img.shields.io/badge/Alert__Server-d1242f?style=for-the-badge&logo=github&logoColor=white" alt="Alert_Server" title="Alert_Server" height="30" /></a>
     &nbsp;
     <a href="https://github.com/sergeiown/Alert_Server/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/Alert_Server?label=release&style=for-the-badge&color=d1242f" alt="latest release" title="latest release" height="30" /></a>
@@ -163,11 +165,10 @@
     <a href="https://github.com/sergeiown/Alert_Server/releases" target="_blank"><img src="https://img.shields.io/github/downloads/sergeiown/Alert_Server/total?label=downloads&style=for-the-badge&color=d1242f" alt="downloads" title="downloads" height="30" /></a>
     <br>
     <sub>Electron tray app for Ukrainian air-raid alerts with its own backend (alerts.in.ua primary, Neptun/UkraineAlarm fallback), live threat map, forecasts, weapon-usage trends, and siren/voice notifications</sub>
-</div>
-
-&nbsp;
-
-<div align="center">
+</td>
+</tr>
+<tr>
+<td align="center">
     <a href="https://github.com/sergeiown/Winget_Upgrade" target="_blank"><img src="https://img.shields.io/badge/Winget__Upgrade-8250df?style=for-the-badge&logo=github&logoColor=white" alt="Winget_Upgrade" title="Winget_Upgrade" height="30" /></a>
     &nbsp;
     <a href="https://github.com/sergeiown/Winget_Upgrade/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/Winget_Upgrade?label=release&style=for-the-badge&color=8250df" alt="latest release" title="latest release" height="30" /></a>
@@ -175,11 +176,10 @@
     <a href="https://github.com/sergeiown/Winget_Upgrade/releases" target="_blank"><img src="https://img.shields.io/github/downloads/sergeiown/Winget_Upgrade/total?label=downloads&style=for-the-badge&color=8250df" alt="downloads" title="downloads" height="30" /></a>
     <br>
     <sub>Node.js CLI that keeps Windows software up to date via Winget, with a package ignore list and event log</sub>
-</div>
-
-&nbsp;
-
-<div align="center">
+</td>
+</tr>
+<tr>
+<td align="center">
     <a href="https://github.com/sergeiown/ClaudeQuota" target="_blank"><img src="https://img.shields.io/badge/ClaudeQuota-d97757?style=for-the-badge&logo=github&logoColor=white" alt="ClaudeQuota" title="ClaudeQuota" height="30" /></a>
     &nbsp;
     <a href="https://github.com/sergeiown/ClaudeQuota/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/ClaudeQuota?label=release&style=for-the-badge&color=d97757" alt="latest release" title="latest release" height="30" /></a>
@@ -187,11 +187,10 @@
     <a href="https://github.com/sergeiown/ClaudeQuota/releases" target="_blank"><img src="https://img.shields.io/github/downloads/sergeiown/ClaudeQuota/total?label=downloads&style=for-the-badge&color=d97757" alt="downloads" title="downloads" height="30" /></a>
     <br>
     <sub>Windows tray app for your Claude usage limits - sets itself up, no terminal needed</sub>
-</div>
-
-&nbsp;
-
-<div align="center">
+</td>
+</tr>
+<tr>
+<td align="center">
     <a href="https://github.com/sergeiown/MeetingScribe" target="_blank"><img src="https://img.shields.io/badge/MeetingScribe-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="MeetingScribe" title="MeetingScribe" height="30" /></a>
     &nbsp;
     <a href="https://github.com/sergeiown/MeetingScribe/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/MeetingScribe?label=release&style=for-the-badge&color=1f6feb" alt="latest release" title="latest release" height="30" /></a>
@@ -199,11 +198,10 @@
     <a href="https://github.com/sergeiown/MeetingScribe/releases" target="_blank"><img src="https://img.shields.io/github/downloads/sergeiown/MeetingScribe/total?label=downloads&style=for-the-badge&color=1f6feb" alt="downloads" title="downloads" height="30" /></a>
     <br>
     <sub>Native Windows desktop app that records meetings and transcribes them with speaker diarization and known-speaker recognition (Whisper + pyannote), runs fully offline</sub>
-</div>
-
-&nbsp;
-
-<div align="center">
+</td>
+</tr>
+<tr>
+<td align="center">
     <a href="https://github.com/sergeiown/batch_PDF_compressor" target="_blank"><img src="https://img.shields.io/badge/batch__PDF__compressor-1a7f37?style=for-the-badge&logo=github&logoColor=white" alt="batch_PDF_compressor" title="batch_PDF_compressor" height="30" /></a>
     &nbsp;
     <a href="https://github.com/sergeiown/batch_PDF_compressor/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/sergeiown/batch_PDF_compressor?label=release&style=for-the-badge&color=1a7f37" alt="latest release" title="latest release" height="30" /></a>
@@ -211,7 +209,9 @@
     <a href="https://github.com/sergeiown/batch_PDF_compressor/releases" target="_blank"><img src="https://img.shields.io/github/downloads/sergeiown/batch_PDF_compressor/total?label=downloads&style=for-the-badge&color=1a7f37" alt="downloads" title="downloads" height="30" /></a>
     <br>
     <sub>Batch script that compresses all PDFs in a folder tree, with selectable compression levels</sub>
-</div>
+</td>
+</tr>
+</table>
 
 
 &nbsp;
