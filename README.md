@@ -155,7 +155,7 @@
     &nbsp;
     <a href="https://github.com/sergeiown/Alert_Server/releases" target="_blank"><img src="https://img.shields.io/github/downloads/sergeiown/Alert_Server/total?label=downloads&style=for-the-badge&color=d1242f" alt="downloads" title="downloads" height="30" /></a>
     <br>
-    <sub>Free Windows app (also works in the browser) that watches air-raid alerts in the regions you choose and warns you in time, with live threat and front-line map, forecast, statistics, and siren/voice notifications</sub>
+    <sub>Open-source Electron app for real-time air-raid alerts in Ukraine: self-hosted Node.js relay with WebSocket push, live threat map, statistical forecast, and siren/voice notifications; also runs in the browser</sub>
 </td>
 </tr>
 <tr>
