@@ -36,7 +36,7 @@
     </a>
 </div>
 
-##
+---
 
 <h3 align="center">:hammer_and_wrench: Tools :</h3>
 
@@ -142,9 +142,7 @@
     </a>
 </div>
 
-&nbsp;
-
-##
+---
 
 <h3 align="center">:rocket: Projects :</h3>
 
@@ -206,10 +204,7 @@
 </tr>
 </table>
 
-
-&nbsp;
-
-##
+---
 
 <div id="singularity" align="center">
     <a href="https://en.wikipedia.org/wiki/Technological_singularity" target="_blank">
