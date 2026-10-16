@@ -5,6 +5,12 @@
     <a href="https://github.com/sergeiown" target="_blank">
         <img src="https://github.com/sergeiown/sergeiown/blob/main/img/hand.svg" alt="hand" width="110" height="80" />
     </a>
+    <a href="https://github.com/sergeiown" target="_blank">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sergeiown/sergeiown/blob/main/img/archer-header-dark.svg" />
+            <img src="https://github.com/sergeiown/sergeiown/blob/main/img/archer-header.svg" alt="archer" title="Aim at the impossible" height="80" />
+        </picture>
+    </a>
 </h1>
 
 <div align="center">
@@ -12,10 +18,6 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DAAE0C&center=true&vCenter=true&width=500&lines=Manages+engineers+by+day%2C+argues+with+compilers+by+night;Once+kept+trains+on+time%2C+now+keep+firmware+in+line;Be+realistic%2C+demand+the+impossible;This+is+the+lab%2C+not+the+portfolio" />
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B6914&center=true&vCenter=true&width=500&lines=Manages+engineers+by+day%2C+argues+with+compilers+by+night;Once+kept+trains+on+time%2C+now+keep+firmware+in+line;Be+realistic%2C+demand+the+impossible;This+is+the+lab%2C+not+the+portfolio" alt="Typing SVG" />
     </picture>
-</div>
-
-<div align="center">
-    <img src="https://github.com/sergeiown/sergeiown/blob/main/img/archer.png" alt="Archer" title="Aim at the impossible" width="96" height="96" />
 </div>
 
 &nbsp;
