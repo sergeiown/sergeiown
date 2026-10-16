@@ -14,6 +14,10 @@
     </picture>
 </div>
 
+<div align="center">
+    <img src="https://github.com/sergeiown/sergeiown/blob/main/img/archer.png" alt="Archer" title="Aim at the impossible" width="96" height="96" />
+</div>
+
 &nbsp;
 
 <div id="badges" align="center">
